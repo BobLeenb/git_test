@@ -1,5 +1,14 @@
 import numpy as np
 
+def add():
+    pass
+
+def minus():
+    pass
+
+def plus():
+    pass
+
 def multipy():
     print('a')
     np.array(2)
